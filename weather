@@ -1,16 +1,4 @@
-HOW TO RUN THE PROGRAM 
- 
-
-•	Open visual studio-file-new-project-Windows Form Applications-Ok.
-•	Open toolbox-Data-Data Grid View
-•	Choose Data Source –Add Project Data Source
-•	Choose Database-Data Set –New Connection
-•	Fill the Server Name by clicking on it.
-•	 In the same select the database too and then click ok.
-•	Check until it gets confirmed.
-•	Click on the + symbol , you will get the path. copy it and paste in your connection program for connectivity. 
-•	For example path will resemble:
-•	Data Source=DELL-PC;Initial Catalog=WR;Integrated Security=True
+coding :
 
 
 Home page:
